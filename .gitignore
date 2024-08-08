@@ -1,0 +1,9 @@
+# Exclude folders
+/_DATA/
+/court_line_detector/
+/training/
+/models/
+
+# Exclude .pt files
+*.pt
+
