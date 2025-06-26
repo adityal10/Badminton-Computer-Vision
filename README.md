@@ -5,8 +5,8 @@ This project analyzes Badminton players in a video to measure their speed, ball 
 
 ## Models Used
 - YOLO v8 for player detection
-- Fine Tuned YOLO for tennis ball detection
-- YOLOv8-POSE Court Key point extraction
+- Fine Tuned YOLO for badminton shuttle
+- YOLOv8-POSE Badminton court key point extraction
 
 ## Requirements
 - python3.8
